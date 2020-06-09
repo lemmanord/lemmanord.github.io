@@ -1,0 +1,42 @@
+.container {
+  padding-top: 5px;
+  padding-bottom: 50px;
+}
+
+.row {
+  padding-top: 130px;
+  padding-bottom: 20px;
+}
+
+.container .row .greetings {
+  font-size: 8vw;
+}
+
+.container .row .projects {
+  font-size: 7vw;
+}
+
+.proj {
+  background-color: #6b8bb2;
+}
+
+.space {
+  padding-top: 100px;
+  display: flex;
+  flex-direction: row;
+}
+.space2 {
+  padding-top: 100px;
+  display: flex;
+  flex-direction: row;
+}
+.bg-yellow {
+  background-color: #ffd700;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-image: url(./images/wave.svg);
+  background-position: top;
+}
